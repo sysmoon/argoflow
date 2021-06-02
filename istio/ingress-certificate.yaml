@@ -8,6 +8,6 @@ spec:
   issuerRef:
     name: kubeflow-self-signing-issuer
     kind: ClusterIssuer
-  commonName: kubeflow.example.com
+  commonName: kubeflow.moonid.co.kr
   dnsNames:
-    - kubeflow.example.com
+    - kubeflow.moonid.co.kr
