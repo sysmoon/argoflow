@@ -24,11 +24,6 @@ data:
       # FIXME: Use hashFromEnv instead
       username: user
       userID: "15841185641784"
-    - email: sysmoon@gmail.com
-      hash: $2b$10$ANawWwQqkP.JLE5PzHMqeeSh24fpAK8h/LPK3hEoJnBGVh1sAiOWm
-      # https://github.com/dexidp/dex/pull/1601/commits
-      # FIXME: Use hashFromEnv instead
-      username: sysmoon
     staticClients:
     # https://github.com/dexidp/dex/pull/1664
     - idEnv: OIDC_CLIENT_ID
