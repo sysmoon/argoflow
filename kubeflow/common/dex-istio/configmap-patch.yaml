@@ -15,7 +15,7 @@ data:
       level: "debug"
       format: text
     oauth2:
-      skipApprovalScreen: true
+      skipApprovalScreen: false
     enablePasswordDB: true
     staticPasswords:
     - email: user@kubeflow.org
