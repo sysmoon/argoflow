@@ -6,7 +6,7 @@ resources:
 # - argocd-applications/metallb.yaml
 # - argocd-applications/rook-ceph.yaml
 # - argocd-applications/nginx.yaml
-- argocd-applications/nvidia-gpu-operator.yaml
+#- argocd-applications/nvidia-gpu-operator.yaml
 - argocd-applications/argocd.yaml
 - argocd-applications/istio-operator.yaml
 - argocd-applications/istio.yaml
